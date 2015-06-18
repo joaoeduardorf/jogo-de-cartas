@@ -1,0 +1,7 @@
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio.Teste\bin\Debug\JogoDeCartas.Dominio.Teste.dll
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio.Teste\bin\Debug\JogoDeCartas.Dominio.Teste.pdb
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio.Teste\bin\Debug\JogoDeCartas.Dominio.dll
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio.Teste\bin\Debug\JogoDeCartas.Dominio.pdb
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio.Teste\obj\Debug\JogoDeCartas.Dominio.Teste.csprojResolveAssemblyReference.cache
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio.Teste\obj\Debug\JogoDeCartas.Dominio.Teste.dll
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio.Teste\obj\Debug\JogoDeCartas.Dominio.Teste.pdb

@@ -1,0 +1,4 @@
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio\bin\Debug\JogoDeCartas.Dominio.dll
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio\bin\Debug\JogoDeCartas.Dominio.pdb
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio\obj\Debug\JogoDeCartas.Dominio.dll
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.Dominio\obj\Debug\JogoDeCartas.Dominio.pdb
