@@ -1,0 +1,8 @@
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.ConsoleDoUsuario\bin\Debug\JogoDeCartas.ConsoleDoUsuario.exe.config
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.ConsoleDoUsuario\bin\Debug\JogoDeCartas.ConsoleDoUsuario.exe
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.ConsoleDoUsuario\bin\Debug\JogoDeCartas.ConsoleDoUsuario.pdb
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.ConsoleDoUsuario\bin\Debug\JogoDeCartas.Dominio.dll
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.ConsoleDoUsuario\bin\Debug\JogoDeCartas.Dominio.pdb
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.ConsoleDoUsuario\obj\Debug\JogoDeCartas.ConsoleDoUsuario.csprojResolveAssemblyReference.cache
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.ConsoleDoUsuario\obj\Debug\JogoDeCartas.ConsoleDoUsuario.exe
+c:\users\joaoeduardorf\documents\visual studio 2013\Projects\JogoDeCartasSolutions\JogoDeCartas.ConsoleDoUsuario\obj\Debug\JogoDeCartas.ConsoleDoUsuario.pdb

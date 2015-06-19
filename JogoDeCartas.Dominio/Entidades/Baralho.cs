@@ -34,7 +34,7 @@ namespace JogoDeCartas.Dominio.Entidades
         {
             Random rand = new Random();
 
-            this.Cartas = this.Cartas.OrderBy(c => rand.Next()).Select(c => new Carta { Naipe = c.Naipe, Valor = c.Valor }).ToList();
+            this.Cartas = this.Cartas.OrderBy(c => rand.Next()).ThenByDescending(c => rand.Next()).Select(c => new Carta { Naipe = c.Naipe, Valor = c.Valor }).ToList();
         }
     }
 }
